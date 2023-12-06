@@ -1,0 +1,1 @@
+O projeto 'Mensagem biblica' tem como objetivo criar uma aplicação que envie automaticamente um trecho da bibilia aleatorio, escolhido pelo sistema para um numero escolhido numa lista para o whatsapp e telegram.
